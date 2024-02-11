@@ -1,6 +1,6 @@
 {
-	"author": "Carl Broaden Jr.",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Carl Broaden Jr.",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
